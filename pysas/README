@@ -1,0 +1,1 @@
+v1: use c++11 mt19937 function (i.e. c++ official rand generator)
